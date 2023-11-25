@@ -1,0 +1,15 @@
+{
+  "login": {
+    "WelcomeFinallyExclusiveMember": "Welcome finally, exclusive member",
+    "LogInToContinue": "Log in to continue",
+    "email": "email",
+    "EmailIsRequired": "Email is required",
+    "EmailIsIncorrect": "Email is incorrect",
+    "password": "password",
+    "PasswordRequired": "Password required",
+    "TheMinimumNumberOfCharactersIsFive": "The minimum number of characters is five",
+    "signIn": "sign in",
+    "Copyrights": "Copyright 2023 Daum Company - All rights reserved",
+    "WeNeedHelp": "We need help"
+  }
+}
