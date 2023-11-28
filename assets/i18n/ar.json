@@ -1,6 +1,6 @@
 {
   "login": {
-    "WelcomeFinallyExclusiveMember": "مرحبا بك مرة أخري أيها العضو الحصري",
+    "welcomeAgain": "أهلاً بك مرة اخري",
     "LogInToContinue": "قم بتسجيل الدخول للمتابعة ",
     "email": "البريد الالكتروني",
     "EmailIsRequired": "البريد الالكتروني مطلوب",
