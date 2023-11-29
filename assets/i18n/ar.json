@@ -13,6 +13,9 @@
     "WeNeedHelp": "نحتاج مساعده ",
     "loading": "تحميل"
   },
+  "dialogs": {
+    "loading": "تحميل..."
+  },
   "primeng": {
     "dayNames": [
       "الأحد",
