@@ -1016,6 +1016,9 @@ MIT
 ngx-cookie-service
 MIT
 
+ngx-csv
+MIT
+
 ngx-google-places-autocomplete-esb
 MIT
 
